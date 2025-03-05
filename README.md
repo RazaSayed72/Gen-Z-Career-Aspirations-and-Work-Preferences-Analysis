@@ -1,0 +1,2 @@
+# Gen-Z-Career-Aspirations-and-Work-Preferences-Analysis
+This project analyzes Gen Z's career aspirations, work preferences, and higher education plans. It explores key factors influencing their choices, preferred work environments, employer expectations, and long-term job commitment. The insights help organizations understand Gen Z’s mindset and align strategies to attract and retain young talent.
